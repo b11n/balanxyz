@@ -1,24 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
+      <p className="intro-text">
+          Hi there! I'm Balanarayanan, a frontend engineer working at Google.<br></br>
+          I'm passionate about really awesome UIs, prototyping with Arduinos and
+          mostly anything tech in general.
+      </p>
+
     </div>
   );
 }
