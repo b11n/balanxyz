@@ -13,14 +13,15 @@ function App() {
           alt="Profile"
           src="https://lh3.googleusercontent.com/-yQzqgKjcLhU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdftEvVOQQ_YBC7wVU2ur8iqFQvTw.CMID/s192-c/photo.jpg"></img>
           <p className="intro-text">
-              Hi there! I'm Balanarayanan, a frontend engineer working at Google.<br></br><br></br>
-              I'm passionate about UIs, browser tech, prototyping with Arduinos and
+              Hi there! I'm Balanarayanan, a frontend engineer working 
+              at <a rel="noopener noreferrer" target="_blank" href="https://web.archive.org/web/19990423181407/http://www.google.com/company.html">Google</a>. 
+              Previously used to build UIs for <a rel="noopener noreferrer" target="_blank" href="https://www.redbus.in/">Redbus</a>.
+              <br></br><br></br>
+              I'm passionate about UIs, browser tech, rocket science, prototyping with Arduinos/Pis and
               mostly anything tech in general.
           </p>
         </div>
       </div>
-
-
     </div>
   );
 }
