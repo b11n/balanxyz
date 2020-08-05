@@ -1,4 +1,5 @@
 import React from 'react';
+import Icon from './components/icons/icon.js'
 import './App.css';
 
 function App() {
@@ -17,9 +18,14 @@ function App() {
               at <a rel="noopener noreferrer" target="_blank" href="https://web.archive.org/web/19990423181407/http://www.google.com/company.html">Google</a>. 
               Previously used to build UIs for <a rel="noopener noreferrer" target="_blank" href="https://www.redbus.in/">Redbus</a>.
               <br></br><br></br>
-              I'm passionate about UIs, browser tech, rocket science, prototyping with Arduinos/Pis and
+              I'm passionate about UIs, browser tech, prototyping with Arduinos/Pis and
               mostly anything tech in general.
           </p>
+          <div>
+            <Icon type="LINKEDIN" link="https://www.linkedin.com/in/balanarayanan-s/" />
+            <Icon type="GITHUB" link="https://github.com/b11n" />
+            <Icon type="TWITTER" link="https://twitter.com/balanxyz" />
+          </div>
         </div>
       </div>
     </div>
