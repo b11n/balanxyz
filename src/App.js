@@ -21,7 +21,7 @@ function App() {
               I'm passionate about UIs, browser tech, prototyping with Arduinos/Pis and
               mostly anything tech in general.
           </p>
-          <div>
+          <div className="contact-me">
             <Icon type="LINKEDIN" link="https://www.linkedin.com/in/balanarayanan-s/" />
             <Icon type="GITHUB" link="https://github.com/b11n" />
             <Icon type="TWITTER" link="https://twitter.com/balanxyz" />
