@@ -11,15 +11,15 @@ function App() {
       <div className="card">
         <div className="about-me">
           <img className="profile-img"
-          alt="Profile"
+          alt="Profile image"
           src="https://lh3.googleusercontent.com/-yQzqgKjcLhU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdftEvVOQQ_YBC7wVU2ur8iqFQvTw.CMID/s192-c/photo.jpg"></img>
           <p className="intro-text">
               Hi there! I'm Balanarayanan, a frontend engineer working 
               at <a rel="noopener noreferrer" target="_blank" href="https://web.archive.org/web/19990423181407/http://www.google.com/company.html">Google</a>. 
-              Previously used to build UIs for <a rel="noopener noreferrer" target="_blank" href="https://www.redbus.in/">Redbus</a>.
+              Previously, I used to build frontend infrastructure for <a rel="noopener noreferrer" target="_blank" href="https://www.redbus.in/">Redbus</a>.
               <br></br><br></br>
-              I'm passionate about UIs, browser tech, prototyping with Arduinos/Pis and
-              mostly anything tech in general.
+              I'm passionate about UIs, browser tech, prototyping IOT and
+              technology in general.
           </p>
           <div className="contact-me">
             <Icon type="LINKEDIN" link="https://www.linkedin.com/in/balanarayanan-s/" />
