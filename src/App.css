@@ -1,11 +1,17 @@
 .App {
   text-align: center;
-  background-color: #e4e4e4;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+}
+
+#root {
+  z-index: 10;
+  position: absolute;
+  height: 100%;
+  width: 100%
 }
 
 .App-logo {
@@ -28,9 +34,8 @@
   margin: 8px;
   max-width: 640px;
   border-radius: 4px;
-  background: white;
-  box-shadow: 1px 1px 9px #bbbbbb;
-  
+  background: #ffffffb3;
+  box-shadow: 1px 1px 9px #00000026;
 }
 
 .about-me {
@@ -83,4 +88,8 @@
   a:visited {
    color: white;
   }
+}
+
+.orb-canvas {
+  position: absolute;
 }

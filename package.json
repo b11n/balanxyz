@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@pixi/filter-kawase-blur": "^4.0.0",
+    "debounce": "^1.2.1",
+    "hsl-to-hex": "^1.0.0",
+    "pixi.js": "^6.0.2",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "simplex-noise": "^2.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
