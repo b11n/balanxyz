@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.credits {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 17px;
+  font-family: monospace;
+  font-size: 12px;
+  z-index: 10;
+}
